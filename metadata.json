@@ -1,0 +1,8 @@
+{
+  "name": "창업 입지 평가 시뮬레이터",
+  "description": "고객 수요·경쟁 환경·입지 접근성·수익성·공급물류 5개 항목의 배점 가중치로 출점 가능성 점수와 해석을 산출하는 창업 입지 평가 시뮬레이터입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
